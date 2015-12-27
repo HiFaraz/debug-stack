@@ -1,28 +1,28 @@
 {
-  "name": "debug-stack",
-  "version": "0.1.0",
-  "description": "print your debug logs and objects in a stack",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://HiFaraz@github.com/HiFaraz/debug-stack.git"
-  },
-  "keywords": [
+	"name": "debug-stack",
+	"version": "0.1.1",
+	"description": "print your debug logs and objects in a stack",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://HiFaraz@github.com/HiFaraz/debug-stack.git"
+	},
+	"keywords": [
     "debug",
     "debugging",
     "stack",
     "inspect"
   ],
-  "author": "Faraz Syed",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/HiFaraz/debug-stack/issues"
-  },
-  "homepage": "https://github.com/HiFaraz/debug-stack#readme",
-  "dependencies": {
-    "colors": "^1.1.2"
-  }
+	"author": "Faraz Syed",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/HiFaraz/debug-stack/issues"
+	},
+	"homepage": "https://github.com/HiFaraz/debug-stack#readme",
+	"dependencies": {
+		"colors": "^1.1.2"
+	}
 }
