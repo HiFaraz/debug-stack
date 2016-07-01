@@ -17,3 +17,6 @@ my method
 > performed action 1
 > performed action 2
 ```
+
+#Why not use the npm/debug module?
+For complex applications, debug-stack simplifies tracking a particular program flow by stacking all debug messages together so that they are easy to find.
