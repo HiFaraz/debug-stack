@@ -1,5 +1,7 @@
 # debug-stack
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/HiFaraz/debug-stack.svg)](https://greenkeeper.io/)
+
 ```js
 var debugStack = require('debug-stack');
 var debug = debugStack('my method');
